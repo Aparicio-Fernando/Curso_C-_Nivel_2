@@ -1,0 +1,11 @@
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\bin\Debug\winform-app.exe.config
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\bin\Debug\winform-app.exe
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\bin\Debug\winform-app.pdb
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\obj\Debug\winform-app.csproj.AssemblyReference.cache
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\obj\Debug\winform-app.csproj.SuggestedBindingRedirects.cache
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\obj\Debug\winform_app.frmDiscos.resources
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\obj\Debug\winform_app.Properties.Resources.resources
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\obj\Debug\winform-app.csproj.GenerateResource.cache
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\obj\Debug\winform-app.csproj.CoreCompileInputs.cache
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\obj\Debug\winform-app.exe
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\obj\Debug\winform-app.pdb
