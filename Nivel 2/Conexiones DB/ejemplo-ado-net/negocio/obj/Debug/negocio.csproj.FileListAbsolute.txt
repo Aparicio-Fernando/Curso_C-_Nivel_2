@@ -1,0 +1,9 @@
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Conexiones DB\ejemplo-ado-net\negocio\bin\Debug\negocio.dll
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Conexiones DB\ejemplo-ado-net\negocio\bin\Debug\negocio.pdb
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Conexiones DB\ejemplo-ado-net\negocio\bin\Debug\Dominio.dll
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Conexiones DB\ejemplo-ado-net\negocio\bin\Debug\Dominio.pdb
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Conexiones DB\ejemplo-ado-net\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Conexiones DB\ejemplo-ado-net\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Conexiones DB\ejemplo-ado-net\negocio\obj\Debug\negocio.csproj.CopyComplete
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Conexiones DB\ejemplo-ado-net\negocio\obj\Debug\negocio.dll
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Conexiones DB\ejemplo-ado-net\negocio\obj\Debug\negocio.pdb
