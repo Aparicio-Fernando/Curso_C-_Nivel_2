@@ -14,3 +14,4 @@ D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Conexiones DB\ejemplo-ado-net\winform-a
 D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Conexiones DB\ejemplo-ado-net\winform-app\obj\Debug\winform-app.csproj.CopyComplete
 D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Conexiones DB\ejemplo-ado-net\winform-app\bin\Debug\negocio.dll
 D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Conexiones DB\ejemplo-ado-net\winform-app\bin\Debug\negocio.pdb
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Conexiones DB\ejemplo-ado-net\winform-app\obj\Debug\winform_app.frmAltaPokemon.resources

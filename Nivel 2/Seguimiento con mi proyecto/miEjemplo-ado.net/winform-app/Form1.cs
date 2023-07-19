@@ -7,12 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using dominio;
+using negocio;
 
 namespace winform_app
 {
     public partial class frmDiscos : Form
     {
         private List<Disco> listaDisco;
+        private List<Estilo> listaEstilo;
         public frmDiscos()
         {
             InitializeComponent();
@@ -21,6 +24,7 @@ namespace winform_app
         
         private void frmDiscos_Load(object sender, EventArgs e)
         {
+
             DiscoNegocio negocio = new DiscoNegocio();
             listaDisco = negocio.listar();
             dgvDiscos.DataSource = listaDisco;
@@ -40,11 +44,17 @@ namespace winform_app
             {
                 pbxDisco.Load(imagen);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
 
                 pbxDisco.Load("https://i0.wp.com/theperfectroundgolf.com/wp-content/uploads/2022/04/placeholder.png?fit=1200%2C800&ssl=1");
             }
+        }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            frmAltaDisco alta = new frmAltaDisco();
+            alta.ShowDialog();
         }
     }
 }

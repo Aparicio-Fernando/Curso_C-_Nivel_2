@@ -19,7 +19,7 @@ namespace negocio
 
         public AccesoDatos()
         {
-            conexion = new SqlConnection("server=DESKTOP-FN7P0HE\\SQLEXPRESS01; database=POKEDEX_DB; integrated security=true");
+            conexion = new SqlConnection("server=.\\SQLEXPRESS; database=POKEDEX_DB; integrated security=true");
             comando = new SqlCommand();
         }
 
@@ -36,6 +36,22 @@ namespace negocio
             {
                 conexion.Open();
                 lector = comando.ExecuteReader();
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+        }
+
+        public void ejecutarAccion()
+        {
+            comando.Connection=conexion;
+            try
+            {
+                conexion.Open();
+                comando.ExecuteNonQuery();
+
             }
             catch (Exception ex)
             {

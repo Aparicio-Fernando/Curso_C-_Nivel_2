@@ -9,3 +9,9 @@ D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-a
 D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\obj\Debug\winform-app.csproj.CoreCompileInputs.cache
 D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\obj\Debug\winform-app.exe
 D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\obj\Debug\winform-app.pdb
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\bin\Debug\dominio.dll
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\bin\Debug\dominio.pdb
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\obj\Debug\winform-app.csproj.CopyComplete
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\bin\Debug\negocio.dll
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\bin\Debug\negocio.pdb
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\winform-app\obj\Debug\winform_app.frmAltaDisco.resources

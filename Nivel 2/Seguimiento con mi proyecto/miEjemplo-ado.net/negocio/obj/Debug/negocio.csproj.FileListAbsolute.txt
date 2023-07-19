@@ -1,0 +1,9 @@
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\negocio\bin\Debug\negocio.dll
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\negocio\bin\Debug\negocio.pdb
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\negocio\bin\Debug\dominio.dll
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\negocio\bin\Debug\dominio.pdb
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\negocio\obj\Debug\negocio.csproj.CopyComplete
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\negocio\obj\Debug\negocio.dll
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\Seguimiento con mi proyecto\miEjemplo-ado.net\negocio\obj\Debug\negocio.pdb

@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
+using dominio;
 
-namespace winform_app
+namespace negocio
 {
-    internal class DiscoNegocio
+    public class DiscoNegocio
     {
         public List<Disco> listar()
         {
@@ -18,7 +19,7 @@ namespace winform_app
 
             try
             {
-                conexion.ConnectionString = "server=.\\SQLEXPRESS01; database=DISCOS_DB; integrated security=true";
+                conexion.ConnectionString = "server=.\\SQLEXPRESS; database=DISCOS_DB; integrated security=true";
                 comando.CommandType = System.Data.CommandType.Text;
                 comando.CommandText = "SELECT Titulo, FechaLanzamiento, CantidadCanciones, UrlImagenTapa, E.Descripcion Estilo, T.Descripcion Edicion FROM DISCOS D, ESTILOS E, TIPOSEDICION T WHERE E.Id=D.IdEstilo AND T.Id=D.IdTipoEdicion";
                 comando.Connection = conexion;
@@ -51,6 +52,31 @@ namespace winform_app
 
                 throw ex;
             }
+        }
+
+        public void agregar (Disco nuevo)
+        {
+            AccesoDatos datos = new AccesoDatos();
+
+            try
+            {
+                datos.setearConsulta("INSERT INTO DISCOS(Titulo, FechaLanzamiento, CantidadCanciones) VALUES ('" + nuevo.Titulo + "','" + nuevo.FechaLanzamiento + "'," + nuevo.CantidadCanciones + ")");
+                datos.ejecutarAccion();
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+            finally
+            {
+                datos.cerrarConexion();
+            }
+        }
+
+        public void modificar(Disco modificar)
+        {
+
         }
     }
 }

@@ -20,7 +20,7 @@ namespace negocio
 
             try
             {
-                conexion.ConnectionString = "server=DESKTOP-FN7P0HE\\SQLEXPRESS01; database=POKEDEX_DB; integrated security=true";
+                conexion.ConnectionString = "server=.\\SQLEXPRESS; database=POKEDEX_DB; integrated security=true";
                 comando.CommandType=System.Data.CommandType.Text;
                 comando.CommandText = "Select Numero, Nombre, P.Descripcion, UrlImagen, E.Descripcion Tipo, D.Descripcion Debilidad From POKEMONS P, ELEMENTOS E, ELEMENTOS D Where E.Id = P.IdTipo And D.Id = P.IdDebilidad";
                 comando.Connection = conexion;
@@ -54,5 +54,32 @@ namespace negocio
             }
 
         }
+
+        public void agregar (Pokemon nuevo)
+        {
+            AccesoDatos datos = new AccesoDatos();
+
+            try
+            {
+                datos.setearConsulta("INSERT INTO POKEMONS (Numero, Nombre, Descripcion, Activo) VALUES ("+nuevo.Numero +",'"+nuevo.Nombre+"', '"+nuevo.Descripcion+"', 1)");
+                datos.ejecutarAccion();
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+            finally
+            {
+                datos.cerrarConexion();
+            }
+        }
+
+        public void modificar(Pokemon modificar)
+        {
+
+        }  
     }
+
+    
 }
