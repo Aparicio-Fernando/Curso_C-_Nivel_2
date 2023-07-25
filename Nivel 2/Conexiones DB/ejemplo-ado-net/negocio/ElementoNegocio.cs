@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace negocio
 {
     public class ElementoNegocio
@@ -23,7 +24,7 @@ namespace negocio
 				{
 					Elemento aux = new Elemento();
 					aux.Id = (int)datos.Lector["Id"];
-					aux.Descripcio = (string)datos.Lector["Description"];
+					aux.Descripcion = (string)datos.Lector["Descripcion"];
 
 					lista.Add(aux);
 				}
