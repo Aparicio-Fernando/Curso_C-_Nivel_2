@@ -1,0 +1,6 @@
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\TPFinalNivel2_Aparicio\dominio\bin\Debug\dominio.dll
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\TPFinalNivel2_Aparicio\dominio\bin\Debug\dominio.pdb
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\TPFinalNivel2_Aparicio\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\TPFinalNivel2_Aparicio\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\TPFinalNivel2_Aparicio\dominio\obj\Debug\dominio.dll
+D:\REPOSITORIOS\Curso_C-_Nivel_2\Nivel 2\TPFinalNivel2_Aparicio\dominio\obj\Debug\dominio.pdb
